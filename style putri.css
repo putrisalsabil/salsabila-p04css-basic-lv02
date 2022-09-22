@@ -1,0 +1,10 @@
+td {
+		background: lightblue;
+		cursor: pointer;
+		transition: .2s;
+	}
+
+	td:hover{
+		background: white;
+	}
+	
